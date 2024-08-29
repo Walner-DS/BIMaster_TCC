@@ -5,7 +5,7 @@ Repositorio criado para o TCC da Pós-Graduação
 
 # Análise de radiografias utilizando Redes Neurais para auxílio no diagnóstico de pneumunia.
 
-#### Aluno: [Walner de Assis Passos](https://github.com/Walner-DS/BIMaster_TCC).
+#### Aluno: [Walner de Assis Passos](https://github.com/Walner-DS).
 #### Orientadora: [Evelyn Conceição Santos Batista](https://github.com/evysb).
 
 ---
