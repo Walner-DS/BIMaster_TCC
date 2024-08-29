@@ -25,7 +25,7 @@ Foram utilizados modelos de redes neurais convulsionais com a técnica de Transf
 Foram analisadas as redes VGG19, VGG16, ResNet152V2, MobileNetV3Large, IbceotionV3 e DenseNet201 com uma configuração padrão e selecionada as redes com melhor desempenho para refinamento dos parâmetros do modelo, tendo como resultado:
 
 ![image](362444420-bf28377e-549f-416c-9512-83258ded9784.png)
-![image](https://github.com/user-attachments/assets/ff003dc1-dd80-4b8b-8115-ba87bcef7ea6)
+![image](362451866-ff003dc1-dd80-4b8b-8115-ba87bcef7ea6.png)
 
 ### Summary
 
@@ -35,8 +35,8 @@ Convulsive neural network models were used using the Transfer Learning technique
 
 The VGG19, VGG16, ResNet152V2, MobileNetV3Large, IbceotionV3 and DenseNet201 networks were analyzed with a standard configuration and the DenseNet201 network was selected, the network with the best performance for refining the model parameters, resulting in:
 
-![image](https://github.com/user-attachments/assets/bf28377e-549f-416c-9512-83258ded9784)
-![image](https://github.com/user-attachments/assets/4dd41dca-07a9-4da1-9f88-819167d79339)
+![image](362444420-bf28377e-549f-416c-9512-83258ded9784.png)
+![image](362451882-4dd41dca-07a9-4da1-9f88-819167d79339.png)
 
 
 ### 1. Introdução
@@ -51,13 +51,13 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
    
 >> Foi utilizada uma [base de dados](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) com 1650 imagens disponibilizadas na base do kaggle com a seguinte distribuição:
 
->>>![image](https://github.com/user-attachments/assets/c685e526-7771-4697-aa68-c684b94e9467)
+>>>![image](362451179-c685e526-7771-4697-aa68-c684b94e9467.png)
 
 >2.2.	Pré-processamento:
 
 >> As imagens foram padronizadas para um formato 244 x 244 e transformação de monocromática para RGB atribuindo coloração proporcional aos valores de intensidade nas variações de preto e branco.
 
->>>![image](https://github.com/user-attachments/assets/24de6c43-a76c-4da0-83fe-50138756e430)
+>>>![image](362451340-24de6c43-a76c-4da0-83fe-50138756e430.png)
 
 >2.3. Construção da Rede:
 
@@ -120,33 +120,33 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 #### [VGG16:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_VGG16.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/1b97b653-6046-446a-8a5b-637bd8bb3fee)
->> ![image](https://github.com/user-attachments/assets/772951fb-55b8-49b6-8d31-9fbaf932ecb7)
+>> ![image](362476150-1b97b653-6046-446a-8a5b-637bd8bb3fee.png)
+>> ![image](362476129-772951fb-55b8-49b6-8d31-9fbaf932ecb7.png)
 
 #### [ResNet152V2:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_ResNet152V2.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf)
->> ![image](https://github.com/user-attachments/assets/e0731839-01d7-42d8-a86b-fc732a03bb20)
+>> ![image](362033978-d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf.png)
+>> ![image](362034060-e0731839-01d7-42d8-a86b-fc732a03bb20.png)
 
 #### [MobileNetV3Large:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_MobileNetV3Large.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/fa6fa0d9-a854-4992-a66e-0fba92345ec4)
->> ![image](https://github.com/user-attachments/assets/7f17a89c-2488-45ff-8345-78da955691ef)
+>> ![image](362036673-fa6fa0d9-a854-4992-a66e-0fba92345ec4.png)
+>> ![image](362036513-7f17a89c-2488-45ff-8345-78da955691ef.png)
 
 #### [InceptionV3:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_InceptionV3.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/2a31da45-c93d-47bd-82f9-b8cbfba24cbb)
->> ![image](https://github.com/user-attachments/assets/d4e2afe8-ffcc-48c9-a728-e896e82b0a6f)
+>> ![image](362037817-2a31da45-c93d-47bd-82f9-b8cbfba24cbb.png)
+>> ![image](362037671-d4e2afe8-ffcc-48c9-a728-e896e82b0a6f.png)
 
 #### [VGG19:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_VGG19.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/a3f28293-bc15-44dd-b265-b443f5b7bb75)
->> ![image](https://github.com/user-attachments/assets/fd004482-9a0c-46a8-b120-b851cf8e6686)
+>> ![image](362038115-a3f28293-bc15-44dd-b265-b443f5b7bb75.png)
+>> ![image](362038391-fd004482-9a0c-46a8-b120-b851cf8e6686.png)
 
 #### [DenseNet201:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_DenseNet201.ipynb)
 
->> ![image](https://github.com/user-attachments/assets/56c1859f-a4c9-4837-b6b6-2dc752a4a475)
->> ![image](https://github.com/user-attachments/assets/6f509340-d0ea-4b5d-be9a-0ef0f764a728)
+>> ![image](362039034-56c1859f-a4c9-4837-b6b6-2dc752a4a475.png)
+>> ![image](362039146-6f509340-d0ea-4b5d-be9a-0ef0f764a728.png)
 
 
 ### 4. Conclusões
