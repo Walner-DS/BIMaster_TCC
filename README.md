@@ -118,27 +118,27 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 ### 3. Resultados
 
-#### [VGG16:]()
+#### [VGG16:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_VGG16.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/1b97b653-6046-446a-8a5b-637bd8bb3fee)
 >> ![image](https://github.com/user-attachments/assets/772951fb-55b8-49b6-8d31-9fbaf932ecb7)
 
-#### [ResNet152V2:]()
+#### [ResNet152V2:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_ResNet152V2.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf)
 >> ![image](https://github.com/user-attachments/assets/e0731839-01d7-42d8-a86b-fc732a03bb20)
 
-#### [MobileNetV3Large:]()
+#### [MobileNetV3Large:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_MobileNetV3Large.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/fa6fa0d9-a854-4992-a66e-0fba92345ec4)
 >> ![image](https://github.com/user-attachments/assets/7f17a89c-2488-45ff-8345-78da955691ef)
 
-#### [InceptionV3:]()
+#### [InceptionV3:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_InceptionV3.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/2a31da45-c93d-47bd-82f9-b8cbfba24cbb)
 >> ![image](https://github.com/user-attachments/assets/d4e2afe8-ffcc-48c9-a728-e896e82b0a6f)
 
-#### [VGG19:]()
+#### [VGG19:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_VGG19.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/a3f28293-bc15-44dd-b265-b443f5b7bb75)
 >> ![image](https://github.com/user-attachments/assets/fd004482-9a0c-46a8-b120-b851cf8e6686)
