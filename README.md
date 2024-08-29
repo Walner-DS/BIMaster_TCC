@@ -49,7 +49,7 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 >2.1.	Base de Dados:
    
->> Foi utilizada uma [base de dados](C:\Users\walne\Desktop\POS\POS_CIENCIA_DADOS) com 1650 imagens disponibilizadas na base do kaggle com a seguinte distribuição:
+>> Foi utilizada uma [base de dados]([C:\Users\walne\Desktop\POS\POS_CIENCIA_DADOS](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) com 1650 imagens disponibilizadas na base do kaggle com a seguinte distribuição:
 
 >>>![image](https://github.com/user-attachments/assets/c685e526-7771-4697-aa68-c684b94e9467)
 
@@ -118,32 +118,32 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 ### 3. Resultados
 
-#### VGG16:
+#### [VGG16:]()
 
 >> ![image](https://github.com/user-attachments/assets/1b97b653-6046-446a-8a5b-637bd8bb3fee)
 >> ![image](https://github.com/user-attachments/assets/772951fb-55b8-49b6-8d31-9fbaf932ecb7)
 
-#### ResNet152V2:
+#### [ResNet152V2:]()
 
 >> ![image](https://github.com/user-attachments/assets/d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf)
 >> ![image](https://github.com/user-attachments/assets/e0731839-01d7-42d8-a86b-fc732a03bb20)
 
-#### MobileNetV3Large:
+#### [MobileNetV3Large:]()
 
 >> ![image](https://github.com/user-attachments/assets/fa6fa0d9-a854-4992-a66e-0fba92345ec4)
 >> ![image](https://github.com/user-attachments/assets/7f17a89c-2488-45ff-8345-78da955691ef)
 
-#### InceptionV3:
+#### [InceptionV3:]()
 
 >> ![image](https://github.com/user-attachments/assets/2a31da45-c93d-47bd-82f9-b8cbfba24cbb)
 >> ![image](https://github.com/user-attachments/assets/d4e2afe8-ffcc-48c9-a728-e896e82b0a6f)
 
-#### VGG19:
+#### [VGG19:]()
 
 >> ![image](https://github.com/user-attachments/assets/a3f28293-bc15-44dd-b265-b443f5b7bb75)
 >> ![image](https://github.com/user-attachments/assets/fd004482-9a0c-46a8-b120-b851cf8e6686)
 
-#### DenseNet201:
+#### [DenseNet201:]()
 
 >> ![image](https://github.com/user-attachments/assets/56c1859f-a4c9-4837-b6b6-2dc752a4a475)
 >> ![image](https://github.com/user-attachments/assets/6f509340-d0ea-4b5d-be9a-0ef0f764a728)
