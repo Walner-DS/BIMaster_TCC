@@ -154,13 +154,13 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 >> #### ResNet152V2:
 
->>> ![image](https://github.com/user-attachments/assets/d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf)
->>> ![image](https://github.com/user-attachments/assets/e0731839-01d7-42d8-a86b-fc732a03bb20)
+>>> ![image](362033978-d680ae14-6c2b-4a12-a4b1-196c2ce6dbbf.png)
+>>> ![image](362034060-e0731839-01d7-42d8-a86b-fc732a03bb20.png)
 
 >> #### DenseNet201:
 
->>> ![image](https://github.com/user-attachments/assets/56c1859f-a4c9-4837-b6b6-2dc752a4a475)
->>>![image](https://github.com/user-attachments/assets/6f509340-d0ea-4b5d-be9a-0ef0f764a728)
+>>> ![image](362039034-56c1859f-a4c9-4837-b6b6-2dc752a4a475.png)
+>>>![image](362039146-6f509340-d0ea-4b5d-be9a-0ef0f764a728.png)
 
 Com destaque do DenseNet201 por ter conseguido prever corretamente todos os casos de Pneumonia, zerando os resultados “Falsos Negativos”, contribuindo significativamente com a triagem dos pacientes. Porém, apresentou uma baixa taxa de acerto na classificação de “Normal”, com grandes números de Falsos Positivos, principalmente para o tipo Viral.
 
