@@ -47,9 +47,9 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 
 ### 2. Modelagem
 
->**2.1.	Base de Dados:**
+>2.1.	Base de Dados:
    
->> Foi utilizada uma base de dados com 1650 imagens disponibilizadas na base de dados do kaggle com a seguinte distribuição:
+>> Foi utilizada uma [base de dados](C:\Users\walne\Desktop\POS\POS_CIENCIA_DADOS) com 1650 imagens disponibilizadas na base do kaggle com a seguinte distribuição:
 
 >>>![image](https://github.com/user-attachments/assets/c685e526-7771-4697-aa68-c684b94e9467)
 
