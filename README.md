@@ -143,7 +143,7 @@ Este trabalho tem como objetivo ajudar neste processo, auxiliando no diagnóstic
 >> ![image](https://github.com/user-attachments/assets/a3f28293-bc15-44dd-b265-b443f5b7bb75)
 >> ![image](https://github.com/user-attachments/assets/fd004482-9a0c-46a8-b120-b851cf8e6686)
 
-#### [DenseNet201:]()
+#### [DenseNet201:](https://github.com/Walner-DS/BIMaster_TCC/blob/main/Modelo_Auxilio_Diagnostico_Pneumunia_DenseNet201.ipynb)
 
 >> ![image](https://github.com/user-attachments/assets/56c1859f-a4c9-4837-b6b6-2dc752a4a475)
 >> ![image](https://github.com/user-attachments/assets/6f509340-d0ea-4b5d-be9a-0ef0f764a728)
