@@ -24,8 +24,8 @@ Foram utilizados modelos de redes neurais convulsionais com a técnica de Transf
 
 Foram analisadas as redes VGG19, VGG16, ResNet152V2, MobileNetV3Large, IbceotionV3 e DenseNet201 com uma configuração padrão e selecionada as redes com melhor desempenho para refinamento dos parâmetros do modelo, tendo como resultado:
 
-![image](362444420-bf28377e-549f-416c-9512-83258ded9784.png)
-![image](362451866-ff003dc1-dd80-4b8b-8115-ba87bcef7ea6.png)
+![image](imagens\362444420-bf28377e-549f-416c-9512-83258ded9784.png)
+![image](imagens\362451866-ff003dc1-dd80-4b8b-8115-ba87bcef7ea6.png)
 
 ### Summary
 
